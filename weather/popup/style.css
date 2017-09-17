@@ -1,0 +1,9 @@
+#root {
+    display: flex;
+}
+.button-submit{
+    box-sizing: unset;
+    border: 0;
+    background-color: #0099ff;
+    color: white;
+}
